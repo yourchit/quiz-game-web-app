@@ -1,1 +1,0 @@
-# quiz-game-web-app
